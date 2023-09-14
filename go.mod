@@ -1,3 +1,3 @@
-module structs
+module Proj/HomeWork/golang_structs
 
-go 1.21.0
+go 1.20
